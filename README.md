@@ -1,6 +1,6 @@
 <div align="center">
 
-![CiberAula · Entidad organizadora de formación bonificada](assets/banner.png)
+![CiberAula · Formación online para empresas](assets/banner.png)
 
 </div>
 
@@ -8,121 +8,108 @@
 
 [![Mantenido por CiberAula](https://img.shields.io/badge/Mantenido_por-CiberAula-1a365d?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.ciberaula.com)
 [![Licencia CC BY-SA 4.0](https://img.shields.io/badge/Contenido-CC_BY--SA_4.0-c05621?style=for-the-badge)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Licencia MIT](https://img.shields.io/badge/Código-MIT-gray?style=for-the-badge)](LICENSE)
-[![eLearning](https://img.shields.io/badge/eLearning-Corporativo-0891b2?style=for-the-badge)](https://www.ciberaula.com/cursos-bonificados/)
+[![Licencia MIT](https://img.shields.io/badge/Código-MIT-2d3748?style=for-the-badge)](./LICENSE)
+[![Sitio web](https://img.shields.io/badge/CiberAula.com-1a365d?style=for-the-badge&logo=firefox&logoColor=white)](https://www.ciberaula.com/cursos-bonificados/)
 
 </div>
 
 ---
 
-> **📌 Repositorio en construcción activa.** Este es el inicio de una guía abierta y estructurada sobre cómo implementar formación online corporativa con éxito. El contenido se está publicando por pilares durante 2026. **El Pilar 3 (Plataformas LMS) ya está publicado** — ver más abajo.
+# Formación online para empresas — Guía práctica y abierta
 
-## ¿Qué encontrarás aquí?
+**Conocimiento operativo para responsables de RRHH, formación y dirección en empresas españolas.** Cómo diseñar, implantar y medir formación online corporativa que realmente funcione: plataformas LMS, FUNDAE, producción de contenido, tutorización, evaluación, datos y medición del impacto.
 
-Un repositorio abierto —único en español— sobre **cómo implementar formación online corporativa que realmente funcione**, desde la perspectiva de la empresa-cliente que tiene que gestionarla, no desde la del proveedor que la vende.
+Material mantenido por **[CiberAula](https://www.ciberaula.com)** — entidad organizadora de formación bonificada desde 1996, con más de 400 cursos y experiencia acumulada con miles de empresas españolas.
 
-Responde a la pregunta que hoy se hacen miles de responsables de RRHH en España:
+Este repositorio forma parte del **ecosistema documental abierto de CiberAula**, junto con:
 
-> *"Tenemos que formar a nuestro equipo online, pero no queremos que sea un desastre. ¿Cómo lo hacemos para que funcione de verdad, que la gente termine los cursos, que aprenda, y que FUNDAE no nos rechace el expediente?"*
+- 📘 **[Guía de formación bonificada FUNDAE](https://github.com/Ciberaula/guia-formacion-bonificada-fundae)** — 20 artículos sobre el crédito FUNDAE.
+- 🧠 **[IA para empresas en España](https://github.com/Ciberaula/ia-empresas-espana)** — conocimiento aplicado sobre IA corporativa, cumplimiento IA Act, casos de uso.
+- 🎓 **[Formación online para empresas](https://github.com/Ciberaula/formacion-online-empresas)** ← este repositorio.
 
-Mantenido por **[CiberAula](https://www.ciberaula.com)** con más de **25 años de experiencia** formando a más de **2.000 empresas españolas** bajo el sistema FUNDAE.
+---
 
-## 🎯 Por qué este repositorio existe
+## Índice del contenido
 
-Todo el contenido web actual sobre formación online corporativa está sesgado: los proveedores de LMS venden sus plataformas, las consultoras venden consultoría. **Nadie habla desde la perspectiva de la empresa-cliente con neutralidad**. Este repositorio pretende llenar ese hueco con:
+### 🎓 Pilar 3 · Plataformas LMS (disponible)
 
-- Criterios objetivos para evaluar plataformas LMS (sin intereses comerciales).
-- Datos reales anonimizados de lo que funciona y lo que no.
-- Plantillas y herramientas reutilizables bajo licencia abierta.
-- Casos de fracaso (que nadie publica) tan útiles como los casos de éxito.
+Todo lo que necesitas saber para evaluar, elegir e implantar una plataforma LMS en una empresa española, con énfasis en cumplimiento FUNDAE, accesibilidad legal y portabilidad del contenido.
 
-## 📚 Estructura del repositorio — 8 pilares temáticos
+| Documento | Descripción | Tamaño |
+|---|---|---|
+| [📘 Cómo elegir plataforma LMS](plataformas_lms/plataformas-lms-guia-elegir.md) | Guía ancla: tipos, criterios, costes, proceso de decisión, errores frecuentes. | 26 KB |
+| [📗 Requisitos FUNDAE](plataformas_lms/requisitos-fundae-teleformacion.md) | Qué exige FUNDAE a las plataformas, qué revisan las inspecciones, normativa aplicable. | 20 KB |
+| [✅ Checklist técnico (45 puntos)](plataformas_lms/checklist-tecnico-lms.md) | 45 criterios con prioridad 🔴🟡🟢 organizados en 8 bloques, listos para Excel. | 9 KB |
+| [🔧 SCORM, xAPI y LTI](plataformas_lms/scorm-xapi-lti-explicado.md) | Estándares de interoperabilidad explicados para responsables no técnicos. | 17 KB |
+| [♿ Accesibilidad WCAG](plataformas_lms/accesibilidad-wcag-elearning.md) | Cumplimiento Ley 11/2023 desde junio 2025 aplicado a LMS y contenido. | 20 KB |
+| [📋 Plantilla de evaluación ponderada](plataformas_lms/plantilla-evaluacion-lms.md) | Matriz de decisión 30 criterios con pesos y rúbrica. Lista para Excel. | 10 KB |
 
-El contenido está organizado en **8 pilares**. Se publican de forma escalonada durante 2026.
+**Total Pilar 3: 6 documentos · ~102 KB · ~15.900 palabras.**
+
+---
+
+### 📋 Pilares previstos (en desarrollo)
+
+Este repositorio se está completando por pilares. Los siguientes están planificados:
 
 | Pilar | Contenido | Estado |
 |---|---|---|
-| 1. Planificación | Identificar necesidades, alinear con objetivos de negocio, plan formativo anual, matriz de competencias | Próximamente |
-| 2. Modalidades | Teleformación, aula virtual, mixta, en puesto, microlearning. Matriz de decisión por contenido | Próximamente |
-| **3. [Plataformas LMS](plataformas_lms/)** ✅ | Requisitos FUNDAE, checklist técnico, SCORM/xAPI/LTI, accesibilidad, plantilla evaluación | **Publicado (6 docs · ~103 KB)** |
-| 4. Diseño pedagógico | Principios de diseño instruccional, vídeo efectivo, gamificación real, evaluaciones | Próximamente |
-| 5. Tutorización | Competencias del tutor online, ratios, feedback, gestión de alumnos bloqueados | Próximamente |
-| 6. Gestión del cambio | Comunicación interna, papel de la dirección, mandos intermedios, incentivos | Próximamente |
-| 7. Métricas e impacto | Kirkpatrick aplicado, ROI, transferencia al puesto, informes ejecutivos | Próximamente |
-| 8. Compliance | Expediente formativo, igualdad, PRL, RGPD, auditorías FUNDAE | Próximamente |
+| 1. Estrategia formativa corporativa | Diagnóstico, planificación anual, alineación con negocio, KPIs. | 🟡 En cola |
+| 2. FUNDAE aplicado a la empresa | Crédito formativo, gestión operativa, límites, errores comunes. | 🟡 En cola (complementa repo FUNDAE) |
+| **3. Plataformas LMS** | **Evaluación, cumplimiento, estándares, accesibilidad.** | ✅ **Disponible** |
+| 4. Producción de contenido elearning | Del guion al SCORM: metodología, herramientas, ritmos. | 🟡 En cola |
+| 5. Tutorización y dinamización | Rol del tutor, interacciones, foros, motivación, abandono. | 🟡 En cola |
+| 6. Evaluación y certificación | Diseño de evaluaciones, certificados, reconocimiento. | 🟡 En cola |
+| 7. Medición del impacto formativo | KPIs, modelo Kirkpatrick, analítica de aprendizaje. | 🟡 En cola |
+| 8. Gobernanza y calidad | ISO, auditorías, mejora continua, compliance. | 🟡 En cola |
 
-## ✅ Pilar 3 publicado — Plataformas LMS
+---
 
-El primer pilar publicado es el de **Plataformas LMS**, porque es donde más ruido hay en el mercado y menos claridad para el responsable de RRHH. 6 documentos, ~103 KB, ~16.000 palabras con referencias a normativa oficial.
+## Para quién es este material
 
-| Documento | Tema | Tamaño |
-|---|---|---|
-| [📘 plataformas-lms-guia-elegir.md](plataformas_lms/plataformas-lms-guia-elegir.md) | Guía ancla: qué es un LMS, tipos, criterios, costes, errores frecuentes | 26 KB |
-| [📗 requisitos-fundae-teleformacion.md](plataformas_lms/requisitos-fundae-teleformacion.md) | Requisitos técnicos FUNDAE, RD 694/2017, RD 1189/2025, inspecciones | 20 KB |
-| [✅ checklist-tecnico-lms.md](plataformas_lms/checklist-tecnico-lms.md) | 45 puntos de verificación en 8 bloques con prioridades | 9 KB |
-| [🔧 scorm-xapi-lti-explicado.md](plataformas_lms/scorm-xapi-lti-explicado.md) | Estándares de interoperabilidad explicados para no-técnicos | 16 KB |
-| [♿ accesibilidad-wcag-elearning.md](plataformas_lms/accesibilidad-wcag-elearning.md) | WCAG 2.1 AA aplicado a elearning, Ley 11/2023, auditoría | 20 KB |
-| [📋 plantilla-evaluacion-lms.md](plataformas_lms/plantilla-evaluacion-lms.md) | Matriz ponderada de 30 criterios para comparar plataformas | 10 KB |
+- **Responsables de formación** que tienen que elegir o renovar una plataforma LMS.
+- **Directores de RRHH** que planifican la estrategia formativa anual.
+- **Responsables de cumplimiento** que deben asegurar que la formación cumple FUNDAE y WCAG.
+- **Directivos** que quieren entender qué preguntas hacer antes de firmar un contrato de LMS.
+- **Consultores y formadores** que acompañan a empresas en proyectos de elearning.
+- **Equipos de IT** que deben validar la arquitectura técnica de una plataforma LMS candidata.
 
-**Empieza por la [guía ancla](plataformas_lms/plataformas-lms-guia-elegir.md) y navega desde allí.**
+---
 
-## 🛠️ Qué tendrá cada pilar
+## Principios editoriales
 
-Cada pilar se publica con la misma estructura que hemos establecido en el ecosistema:
+- **Neutralidad comercial.** No recomendamos ninguna plataforma específica en abstracto. Damos criterios para que cada empresa elija la suya.
+- **Basado en experiencia real.** 25+ años gestionando formación corporativa en España. No es teoría de manual.
+- **Normativa aplicable vigente.** Textos legales actualizados a 2026 (RD 694/2017, RD 1189/2025, Ley 11/2023, Directiva EAA).
+- **Lenguaje claro, sin jerga innecesaria.** Cualquier responsable de RRHH sin formación técnica especializada debe poder entender el material.
+- **Abierto y reutilizable.** Licencia CC BY-SA 4.0 para el contenido. Úsalo en tus formaciones internas, cursos, consultorías o ponencias.
 
-- **Documento ancla** — guía integral del tema, con fuentes oficiales.
-- **Documentos complementarios** — profundización por subtemas.
-- **Checklists accionables** — listados de verificación marcables.
-- **Plantillas reutilizables** — Word/Excel/Markdown bajo licencia abierta.
-- **Datos anonimizados** extraídos de los 25 años de CiberAula.
+---
 
-## 🌐 Ecosistema CiberAula
+## Licencia
 
-Este repositorio forma parte de un clúster de tres repositorios complementarios que responden las tres grandes preguntas de cualquier empresa española que necesita formar a su equipo:
+- **Contenido (documentación, textos, guías):** [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — libre uso con atribución a CiberAula y enlace a [www.ciberaula.com](https://www.ciberaula.com).
+- **Código, ejemplos y plantillas técnicas:** [MIT](./LICENSE) — libre uso sin restricciones.
 
-<div align="center">
+---
 
-![Ecosistema CiberAula — 3 repositorios complementarios](assets/footer_ecosistema.png)
+## Contacto
 
-</div>
+- 🌐 **Web**: [www.ciberaula.com](https://www.ciberaula.com)
+- 📧 **Email**: admision@ciberaula.com
+- 📞 **Teléfono**: 91 390 68 47
+- 📍 **Madrid, España**
 
-| Pregunta del responsable RRHH | Repositorio |
-|---|---|
-| ¿Cómo pago esta formación? | 📘 [`guia-formacion-bonificada-fundae`](https://github.com/Ciberaula/guia-formacion-bonificada-fundae) |
-| ¿Qué obligaciones legales tengo al usar IA? | 🧠 [`ia-empresas-espana`](https://github.com/Ciberaula/ia-empresas-espana) |
-| ¿Cómo hago esto online sin que sea un desastre? | 🎓 `formacion-online-empresas` *(este repositorio)* |
-
-## ✍️ Autoría
-
-Mantenido por **Ana María González**, directora de [CiberAula](https://www.ciberaula.com).
-
-Con más de 25 años gestionando formación bonificada en España, Ana María ha formado a trabajadores de más de 2.000 empresas y observa de primera mano qué funciona y qué no en formación online corporativa. CiberAula es entidad organizadora acreditada FUNDAE desde 1996.
-
-🌐 **Web**: [www.ciberaula.com](https://www.ciberaula.com)
-📧 **Contacto**: info@ciberaula.com
-📞 **Teléfono**: +34 915 30 33 87
-
-## 📝 Licencias
-
-- **Contenido editorial** (documentación, guías, Markdown): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es) — libre uso con atribución a CiberAula y enlace a www.ciberaula.com.
-- **Código** (herramientas, plantillas técnicas): [MIT License](LICENSE).
-
-## 📬 Contribuciones y feedback
-
-Si eres responsable de RRHH, formador, consultor o trabajas con formación online corporativa:
-
-- Abre un [issue](../../issues) si detectas un error o quieres sugerir un tema.
-- Los **casos de fracaso anonimizados** son especialmente valiosos — si has vivido uno, cuéntanoslo (sin nombres de empresa, por supuesto).
-- Envía un pull request si quieres contribuir con una plantilla, caso de estudio o revisión.
-
-## ⚠️ Nota importante
-
-El contenido de este repositorio es **informativo y divulgativo**, basado en experiencia profesional y en normativa vigente. No sustituye el asesoramiento jurídico, técnico o consultoría específica para casos concretos. Los datos anonimizados que se publiquen respetan en todo caso las obligaciones de confidencialidad con los clientes de CiberAula.
+Si detectas errores, tienes sugerencias o quieres proponer mejoras, abre un *issue* en este repositorio.
 
 ---
 
 <div align="center">
 
-**¿Te ha sido útil el Pilar 3? Deja una ⭐ al repositorio para ayudarnos a priorizar el siguiente.**
+![CiberAula · Desde 1996](assets/footer_ecosistema.png)
+
+**CiberAula · Formación online para empresas desde 1996**
+
+*Entidad organizadora de formación bonificada · Más de 400 cursos · Acompañando la transformación digital de las empresas españolas*
 
 </div>
