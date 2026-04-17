@@ -10,6 +10,15 @@ license: "CC BY-SA 4.0"
 tags: ["fundae", "lms", "teleformacion", "requisitos-tecnicos", "formacion-bonificada", "cumplimiento"]
 ---
 
+
+<div align="center">
+
+![CiberAula · Formación online para empresas](../assets/banner.png)
+
+</div>
+
+---
+
 # Requisitos FUNDAE de plataformas de teleformación
 
 > **Resumen en 3 frases:** Cuando una empresa bonifica formación online con el crédito FUNDAE, la plataforma LMS utilizada debe cumplir requisitos técnicos específicos recogidos en el Real Decreto 694/2017, desarrollados por las Resoluciones del SEPE y consolidados por el Real Decreto 1189/2025 en vigor desde el 1 de enero de 2026. El incumplimiento de estos requisitos puede provocar el rechazo del expediente en una inspección, con obligación de devolver la bonificación aplicada más intereses de demora. Esta guía detalla qué exige exactamente FUNDAE, cómo se verifica en una inspección, y qué preguntas hacer al proveedor de LMS para asegurarte de que cumple.
