@@ -1,6 +1,6 @@
 ---
 title: "Formación online corporativa — Guía de CiberAula"
-description: "Guía completa para implementar formación online corporativa con éxito en empresas españolas"
+description: "Guía completa para implementar formación online corporativa con éxito en empresas españolas. Pilar 3 (Plataformas LMS) ya publicado."
 ---
 
 # Formación online corporativa en empresas españolas
@@ -11,13 +11,26 @@ description: "Guía completa para implementar formación online corporativa con 
 
 Esta guía abierta aborda **cómo hacer formación online corporativa que funcione de verdad** desde la perspectiva de la empresa-cliente, no desde la del proveedor que vende plataformas.
 
+## ✅ Pilar 3 publicado — Plataformas LMS
+
+El primer pilar publicado del repositorio aborda la decisión más crítica: **qué plataforma LMS elegir**. 6 documentos, ~103 KB, con referencias a normativa FUNDAE oficial.
+
+- [📘 Plataformas LMS: cómo elegir la correcta](plataformas_lms/plataformas-lms-guia-elegir.md) — guía ancla
+- [📗 Requisitos FUNDAE de plataformas de teleformación](plataformas_lms/requisitos-fundae-teleformacion.md)
+- [✅ Checklist técnico de 45 puntos](plataformas_lms/checklist-tecnico-lms.md)
+- [🔧 SCORM, xAPI y LTI explicados](plataformas_lms/scorm-xapi-lti-explicado.md)
+- [♿ Accesibilidad WCAG aplicada a elearning](plataformas_lms/accesibilidad-wcag-elearning.md)
+- [📋 Plantilla de evaluación ponderada](plataformas_lms/plantilla-evaluacion-lms.md)
+
+**Empieza por la [guía ancla](plataformas_lms/plataformas-lms-guia-elegir.md) si es tu primera visita.**
+
 ## 📚 Los 8 pilares de la guía
 
-El contenido se organiza en ocho áreas temáticas. Se irán publicando durante 2026.
+El contenido se organiza en ocho áreas temáticas que se irán publicando durante 2026.
 
 1. **Planificación estratégica** del plan formativo
 2. **Modalidades** — cuándo usar cada una (teleformación, aula virtual, mixta, microlearning)
-3. **Plataformas LMS** — requisitos técnicos y FUNDAE *(primer pilar en redacción)* 🔥
+3. **[Plataformas LMS](plataformas_lms/)** — requisitos técnicos y FUNDAE ✅ *publicado*
 4. **Diseño pedagógico** de cursos efectivos
 5. **Tutorización** y acompañamiento
 6. **Gestión del cambio** y comunicación interna
