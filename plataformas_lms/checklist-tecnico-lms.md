@@ -10,6 +10,15 @@ license: "CC BY-SA 4.0"
 tags: ["checklist", "lms", "evaluacion-lms", "fundae", "tecnico"]
 ---
 
+
+<div align="center">
+
+![CiberAula · Formación online para empresas](../assets/banner.png)
+
+</div>
+
+---
+
 # Checklist técnico de evaluación de plataformas LMS
 
 > **Resumen:** 45 puntos organizados en 8 bloques para evaluar objetivamente una plataforma LMS candidata. Cada punto está marcado con prioridad (🔴 Crítico, 🟡 Alto, 🟢 Medio) y muchos son criterios de descarte (si fallan, descartar la plataforma). Pensado para que un responsable de formación o IT sin conocimientos especializados pueda auditar cualquier LMS del mercado.
