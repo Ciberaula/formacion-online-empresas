@@ -15,7 +15,7 @@
 
 ---
 
-> **📌 Repositorio en construcción activa.** Este es el inicio de una guía abierta y estructurada sobre cómo implementar formación online corporativa con éxito. El contenido se irá publicando por pilares durante 2026. Cada pilar incluirá documentos, plantillas y herramientas descargables.
+> **📌 Repositorio en construcción activa.** Este es el inicio de una guía abierta y estructurada sobre cómo implementar formación online corporativa con éxito. El contenido se está publicando por pilares durante 2026. **El Pilar 3 (Plataformas LMS) ya está publicado** — ver más abajo.
 
 ## ¿Qué encontrarás aquí?
 
@@ -38,39 +38,42 @@ Todo el contenido web actual sobre formación online corporativa está sesgado: 
 
 ## 📚 Estructura del repositorio — 8 pilares temáticos
 
-El contenido está organizado en **8 pilares**. Se irán publicando de forma escalonada durante 2026.
+El contenido está organizado en **8 pilares**. Se publican de forma escalonada durante 2026.
 
 | Pilar | Contenido | Estado |
 |---|---|---|
 | 1. Planificación | Identificar necesidades, alinear con objetivos de negocio, plan formativo anual, matriz de competencias | Próximamente |
 | 2. Modalidades | Teleformación, aula virtual, mixta, en puesto, microlearning. Matriz de decisión por contenido | Próximamente |
-| **3. Plataformas LMS** 🔥 | Requisitos FUNDAE, checklist técnico, SCORM/xAPI/LTI, accesibilidad, integraciones | **Primer pilar en redacción** |
+| **3. [Plataformas LMS](plataformas_lms/)** ✅ | Requisitos FUNDAE, checklist técnico, SCORM/xAPI/LTI, accesibilidad, plantilla evaluación | **Publicado (6 docs · ~103 KB)** |
 | 4. Diseño pedagógico | Principios de diseño instruccional, vídeo efectivo, gamificación real, evaluaciones | Próximamente |
 | 5. Tutorización | Competencias del tutor online, ratios, feedback, gestión de alumnos bloqueados | Próximamente |
 | 6. Gestión del cambio | Comunicación interna, papel de la dirección, mandos intermedios, incentivos | Próximamente |
 | 7. Métricas e impacto | Kirkpatrick aplicado, ROI, transferencia al puesto, informes ejecutivos | Próximamente |
 | 8. Compliance | Expediente formativo, igualdad, PRL, RGPD, auditorías FUNDAE | Próximamente |
 
-## 🔥 Próxima entrega — Pilar 3: Plataformas LMS
+## ✅ Pilar 3 publicado — Plataformas LMS
 
-El primer pilar que vamos a publicar es el de **Plataformas LMS**, porque es donde más ruido hay en el mercado y menos claridad para el responsable de RRHH que tiene que elegir. Contenidos previstos:
+El primer pilar publicado es el de **Plataformas LMS**, porque es donde más ruido hay en el mercado y menos claridad para el responsable de RRHH. 6 documentos, ~103 KB, ~16.000 palabras con referencias a normativa oficial.
 
-- Requisitos FUNDAE de plataformas de teleformación (detallados, con fuentes oficiales).
-- Checklist técnico con más de 40 puntos para evaluar cualquier LMS.
-- Qué son SCORM, xAPI, LTI, y por qué importan para la portabilidad del contenido.
-- Accesibilidad WCAG — obligatoria desde 2025 en España.
-- Integraciones con Microsoft 365, Google Workspace, nóminas y CRM.
-- Herramienta interactiva: evaluador LMS que responde si una plataforma cumple FUNDAE.
+| Documento | Tema | Tamaño |
+|---|---|---|
+| [📘 plataformas-lms-guia-elegir.md](plataformas_lms/plataformas-lms-guia-elegir.md) | Guía ancla: qué es un LMS, tipos, criterios, costes, errores frecuentes | 26 KB |
+| [📗 requisitos-fundae-teleformacion.md](plataformas_lms/requisitos-fundae-teleformacion.md) | Requisitos técnicos FUNDAE, RD 694/2017, RD 1189/2025, inspecciones | 20 KB |
+| [✅ checklist-tecnico-lms.md](plataformas_lms/checklist-tecnico-lms.md) | 45 puntos de verificación en 8 bloques con prioridades | 9 KB |
+| [🔧 scorm-xapi-lti-explicado.md](plataformas_lms/scorm-xapi-lti-explicado.md) | Estándares de interoperabilidad explicados para no-técnicos | 16 KB |
+| [♿ accesibilidad-wcag-elearning.md](plataformas_lms/accesibilidad-wcag-elearning.md) | WCAG 2.1 AA aplicado a elearning, Ley 11/2023, auditoría | 20 KB |
+| [📋 plantilla-evaluacion-lms.md](plataformas_lms/plantilla-evaluacion-lms.md) | Matriz ponderada de 30 criterios para comparar plataformas | 10 KB |
+
+**Empieza por la [guía ancla](plataformas_lms/plataformas-lms-guia-elegir.md) y navega desde allí.**
 
 ## 🛠️ Qué tendrá cada pilar
 
-Cada pilar se publicará con la misma estructura que ya hemos establecido en el ecosistema:
+Cada pilar se publica con la misma estructura que hemos establecido en el ecosistema:
 
-- **Documento ancla** — guía integral del tema, 3.000-5.000 palabras, con fuentes.
+- **Documento ancla** — guía integral del tema, con fuentes oficiales.
 - **Documentos complementarios** — profundización por subtemas.
 - **Checklists accionables** — listados de verificación marcables.
-- **Plantillas descargables** — Word/Excel/Markdown reutilizables con atribución.
-- **Herramientas interactivas** cuando proceda — calculadoras, evaluadores en JS.
+- **Plantillas reutilizables** — Word/Excel/Markdown bajo licencia abierta.
 - **Datos anonimizados** extraídos de los 25 años de CiberAula.
 
 ## 🌐 Ecosistema CiberAula
@@ -120,6 +123,6 @@ El contenido de este repositorio es **informativo y divulgativo**, basado en exp
 
 <div align="center">
 
-**¿Te interesa que publiquemos el Pilar 3 primero? Deja una ⭐ al repositorio para que podamos priorizar.**
+**¿Te ha sido útil el Pilar 3? Deja una ⭐ al repositorio para ayudarnos a priorizar el siguiente.**
 
 </div>
