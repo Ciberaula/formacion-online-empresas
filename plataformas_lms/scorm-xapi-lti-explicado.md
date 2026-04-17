@@ -10,6 +10,15 @@ license: "CC BY-SA 4.0"
 tags: ["scorm", "xapi", "tin-can", "lti", "estandares-elearning", "interoperabilidad"]
 ---
 
+
+<div align="center">
+
+![CiberAula · Formación online para empresas](../assets/banner.png)
+
+</div>
+
+---
+
 # SCORM, xAPI y LTI explicados para responsables de formación
 
 > **Resumen en 3 frases:** SCORM, xAPI y LTI son los tres estándares principales de interoperabilidad en elearning que permiten que un curso creado en una herramienta pueda reproducirse y rastrearse en una plataforma LMS diferente. Conocerlos bien es crítico porque determinan la portabilidad del contenido formativo, las capacidades de trazabilidad y la capacidad de cambiar de plataforma en el futuro sin empezar de cero. Esta guía explica cada estándar, cuándo usarlo, cómo verificar que tu plataforma lo soporta de verdad, y los errores frecuentes al empaquetar contenido formativo para un LMS.
