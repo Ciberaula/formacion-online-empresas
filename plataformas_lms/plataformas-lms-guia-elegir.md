@@ -10,13 +10,6 @@ license: "CC BY-SA 4.0"
 tags: ["lms", "plataforma-elearning", "teleformacion", "fundae", "corporate-training", "empresa-formacion"]
 ---
 
-
-<div align="center">
-
-![CiberAula · Formación online para empresas](../assets/banner.png)
-
-</div>
-
 ---
 
 # Plataformas LMS para empresas: cómo elegir la correcta
