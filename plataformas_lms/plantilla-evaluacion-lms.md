@@ -10,13 +10,6 @@ license: "CC BY-SA 4.0"
 tags: ["plantilla", "evaluacion-lms", "matriz-decision", "rfp", "compras-it"]
 ---
 
-
-<div align="center">
-
-![CiberAula · Formación online para empresas](../assets/banner.png)
-
-</div>
-
 ---
 
 # Plantilla de evaluación ponderada de plataformas LMS
