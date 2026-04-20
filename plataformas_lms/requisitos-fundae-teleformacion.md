@@ -10,13 +10,6 @@ license: "CC BY-SA 4.0"
 tags: ["fundae", "lms", "teleformacion", "requisitos-tecnicos", "formacion-bonificada", "cumplimiento"]
 ---
 
-
-<div align="center">
-
-![CiberAula · Formación online para empresas](../assets/banner.png)
-
-</div>
-
 ---
 
 # Requisitos FUNDAE de plataformas de teleformación
