@@ -10,13 +10,6 @@ license: "CC BY-SA 4.0"
 tags: ["scorm", "xapi", "tin-can", "lti", "estandares-elearning", "interoperabilidad"]
 ---
 
-
-<div align="center">
-
-![CiberAula · Formación online para empresas](../assets/banner.png)
-
-</div>
-
 ---
 
 # SCORM, xAPI y LTI explicados para responsables de formación
