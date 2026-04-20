@@ -10,13 +10,6 @@ license: "CC BY-SA 4.0"
 tags: ["wcag", "accesibilidad", "ley-accesibilidad", "lms", "elearning", "cumplimiento"]
 ---
 
-
-<div align="center">
-
-![CiberAula · Formación online para empresas](../assets/banner.png)
-
-</div>
-
 ---
 
 # Accesibilidad WCAG aplicada a plataformas de elearning
