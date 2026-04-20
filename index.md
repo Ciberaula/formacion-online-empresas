@@ -101,9 +101,3 @@ Si detectas errores, tienes sugerencias o quieres proponer mejoras, abre un *iss
 ---
 
 <div align="center">
-
-**CiberAula · Formación online para empresas desde 1996**
-
-*Entidad organizadora de formación bonificada · Más de 400 cursos · Acompañando la transformación digital de las empresas españolas*
-
-</div>
