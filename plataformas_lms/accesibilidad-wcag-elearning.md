@@ -17,8 +17,11 @@ tags: ["wcag", "accesibilidad", "ley-accesibilidad", "lms", "elearning", "cumpli
 > **Resumen en 3 frases:** Desde el 28 de junio de 2025, la Ley 11/2023 de Accesibilidad (transposición del Acta Europea de Accesibilidad, Directiva 2019/882) exige que las plataformas de elearning comercializadas o utilizadas en España cumplan el nivel AA de WCAG 2.1 o superior. Esta obligación afecta tanto a la plataforma LMS como al contenido formativo que se imparte: vídeos sin subtítulos, documentos PDF no accesibles o navegación que no funcione con teclado son incumplimientos sancionables. Esta guía explica qué exige WCAG en el contexto concreto de elearning corporativo, cómo auditar tu plataforma y tu contenido, y los errores más frecuentes que se cometen al producir cursos online.
 
 **Última actualización:** 17 de abril de 2026
+
 **Autora:** Ana María González · Directora de CiberAula
+
 **Tiempo estimado de lectura:** 10 minutos
+
 **Licencia:** CC BY-SA 4.0
 
 ---
