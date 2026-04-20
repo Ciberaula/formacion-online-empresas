@@ -2,11 +2,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <style>
-  /* Banner corporativo — coincide con el ancho del layout del tema
-     just-the-docs. El tema coloca sidebar + contenido ocupando:
-       (100% - 66.5rem)/2 + 16.5rem (sidebar) + 50rem (main max-width)
-     = (100% + 66.5rem) / 2 = calc(50% + 33.25rem)
-     El banner se alinea a la iztda para empezar donde empieza el sidebar. */
+  /* CENTRADO COMPLETO DEL LAYOUT - cabecera + footer ancho fijo 1064px
+     centrados respecto al viewport. Version 1 validada el 20/04/2026. */
   .ciberaula-banner-fullwidth {
     width: 100%;
     line-height: 0;
@@ -18,11 +15,85 @@
     display: block;
   }
   @media (min-width: 66.5rem) {
+    .side-bar {
+      left: calc((100% - 66.5rem) / 2) !important;
+      width: 16.5rem !important;
+      align-items: stretch !important;
+    }
+    .main {
+      margin-left: calc((100% - 66.5rem) / 2 + 16.5rem) !important;
+      max-width: 50rem !important;
+    }
     .ciberaula-banner-fullwidth {
-      width: calc(50% + 33.25rem);
+      max-width: 66.5rem;
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      overflow: hidden;
+    }
+    /* Banner compacto: altura reducida al ~60% del original */
+    .ciberaula-banner-fullwidth img {
+      height: 85px;
+      max-height: 85px;
+      object-fit: cover;
+      object-position: center;
+    }
+    /* Footer corporativo centrado + z-index para que no lo tape el sidebar */
+    body > .ciberaula-footer {
+      max-width: 66.5rem !important;
+      width: 100% !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+      position: relative !important;
+      z-index: 10 !important;
+      box-sizing: border-box;
+      padding: 0.4rem 4% 0.15rem !important;
+    }
+    /* Footer compacto: target ~40% del alto original */
+    body > .ciberaula-footer h3 {
+      font-size: 0.92rem !important;
+      line-height: 1.15 !important;
+      margin: 0 0 0.1rem !important;
+    }
+    body > .ciberaula-footer h4 {
+      font-size: 0.66rem !important;
+      margin: 0 0 0.1rem !important;
+      line-height: 1.15 !important;
+    }
+    body > .ciberaula-footer p {
+      font-size: 0.68rem !important;
+      line-height: 1.25 !important;
+      margin: 0 0 0.15rem !important;
+    }
+    body > .ciberaula-footer ul {
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+    body > .ciberaula-footer li {
+      font-size: 0.68rem !important;
+      line-height: 1.3 !important;
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+    body > .ciberaula-footer .ciberaula-footer__since {
+      font-size: 0.56rem !important;
+      padding: 0.06rem 0.4rem !important;
+      margin-top: 0.08rem !important;
+    }
+    body > .ciberaula-footer .ciberaula-footer__top {
+      padding-bottom: 0.15rem !important;
+      gap: 0.8rem !important;
+    }
+    body > .ciberaula-footer .ciberaula-footer__bottom {
+      padding: 0.2rem 0 0 !important;
+      margin-top: 0.15rem !important;
+      font-size: 0.62rem !important;
+    }
+    body > .ciberaula-footer .ciberaula-footer__bottom > div,
+    body > .ciberaula-footer .ciberaula-footer__bottom a {
+      font-size: 0.62rem !important;
     }
   }
-  /* Oculta un banner duplicado si apareciera inline en el markdown */
   .main-content > p:first-child:has(img[src*="banner"]) {
     display: none !important;
   }
