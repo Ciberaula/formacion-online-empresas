@@ -17,8 +17,11 @@ tags: ["lms", "plataforma-elearning", "teleformacion", "fundae", "corporate-trai
 > **Resumen en 3 frases:** Una plataforma LMS (Learning Management System) es el software donde se imparte, gestiona y evalúa la formación online de los empleados de una empresa. Elegir la plataforma equivocada es la causa número uno del fracaso de un proyecto de formación online corporativo, por delante de los contenidos y del diseño pedagógico. Esta guía explica los tipos de LMS disponibles, los criterios objetivos para evaluarlos, los requisitos específicos exigidos por FUNDAE cuando la formación se bonifica, y los errores más frecuentes que se cometen en la elección, basándose en 25 años de experiencia de CiberAula gestionando formación corporativa.
 
 **Última actualización:** 17 de abril de 2026
+
 **Autora:** Ana María González · Directora de CiberAula
+
 **Tiempo estimado de lectura:** 14 minutos
+
 **Licencia:** CC BY-SA 4.0
 
 ---
