@@ -10,13 +10,6 @@ license: "CC BY-SA 4.0"
 tags: ["checklist", "lms", "evaluacion-lms", "fundae", "tecnico"]
 ---
 
-
-<div align="center">
-
-![CiberAula · Formación online para empresas](../assets/banner.png)
-
-</div>
-
 ---
 
 # Checklist técnico de evaluación de plataformas LMS
