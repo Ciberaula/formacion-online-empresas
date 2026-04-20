@@ -17,6 +17,7 @@ tags: ["plantilla", "evaluacion-lms", "matriz-decision", "rfp", "compras-it"]
 > **Resumen:** Plantilla lista para comparar 2-5 plataformas LMS candidatas con puntuación ponderada. Pensada para acompañar un proceso de compra o RFP con criterios objetivos. Incluye 30 criterios agrupados en 6 dimensiones, pesos sugeridos, rúbrica de puntuación de 0-5 y matriz de cálculo final. Se puede copiar directamente a Excel o Google Sheets y adaptar los pesos al contexto de cada empresa.
 
 **Autora:** Ana María González · Directora de CiberAula
+
 **Licencia:** CC BY-SA 4.0 — libre uso con atribución
 
 ---
