@@ -1,8 +1,4 @@
-<div align="center">
 
-![CiberAula · Formación online para empresas](assets/banner.png)
-
-</div>
 
 <div align="center">
 
